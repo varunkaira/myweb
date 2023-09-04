@@ -1,0 +1,40 @@
+1) What is Devops?
+2) What is SDLC?
+3) How many tools available for Devops? What are those?
+4) What is difference between CVCS & DVCS? or SVN & GIT?
+5) What is difference between Local & Remote Repository?
+6) What is difference between Forking & Cloning?
+7) Can you please explain git work flow in your organisation?
+8) How to undo changes in working area?
+9) How to undo the changes in Index/staging area?
+10) How to undo the changes in Local repository?
+11) Can you please explain the branching strategies?
+12) What is branch?
+13) Can you please explain Merging strategies in locally?
+14) Difference between Cherry-pick & Merge?
+15) How to merge the remote side changes?
+16) Difference between branches & tags?
+17) Difference between Maven & ANT?
+18) What are the fields available in pom.xml file?
+19) What are the Maven searching ways?
+20) Explain Maven life cycle?
+21) Difference between releases & snapshots?
+22) What is default tomcat directory?
+23) How to change default tomcat port number?
+24) Difference between pollscm, build periodcally & webhook?
+25) How many ways to install Jenkins plugins?
+26) How to safe restart your Jenkins dashboard?
+27) How to create users in Jenkins?
+28) How to provide security to the Jenkins Instance?
+29) How to change default Jenkins port number?
+30) On which basis Jenkins master will be distributed the job in particular slave/node?
+31) How to take backup of the Jenkins Instance?
+32) What is pipeline?
+33) How to upgrade the jenkins instance?
+34) How to create users in sonarqube?
+35) How to change Sonarqube port number?
+36) Can we regenerate the token?
+37) How to create users in nexus?
+38) How to change Nexus port number?
+39) How to upgrade tomcat?
+
